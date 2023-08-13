@@ -1,0 +1,8 @@
+require("Storage").write("hexClock.info",{
+  "id": "hexClock",
+  "name": "Hex Clock",
+  "version": "0.01",
+  "description": "display date and time in ISO and HEX",
+  "type": "clock",
+  "src": "hexClock.js"
+}
