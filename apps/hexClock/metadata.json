@@ -1,0 +1,13 @@
+{
+  "id": "hexClock",
+  "name": "Hex Clock",
+  "version": "0.01",
+  "description": "display date and time in ISO and HEX",
+  "icon": "hexClock.png",
+  "type": "clock",
+  "tags": "hex,clock",
+  "supports": ["BANGLEJS2"],
+  "storage": [
+    {"name":"hexClock.app.js","url":"app.js"}
+  ]
+}
